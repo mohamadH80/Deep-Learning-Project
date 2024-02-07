@@ -26,4 +26,6 @@ In this context, the model is trained on both labeled and unlabeled examples. Th
 
 The resulting model is demonstrated to learn text classification tasks starting from very few labeled examples (50-60 examples) and to outperform the classical BERT fine-tuned models by a large margin in this setting.
 
-More details are available at [https://github.com/crux82/ganbert](https://github.com/crux82/ganbert)
+## dataset
+
+
