@@ -9,9 +9,6 @@ This is the code for the paper **"GAN-BERT: Generative Adversarial Learning for 
 GAN-BERT is an extension of BERT which uses a Generative Adversarial setting to implement an effective semi-supervised learning schema. It allows training BERT with datasets composed of a limited amount of labeled examples and larger subsets of unlabeled material. 
 GAN-BERT can be used in sequence classification tasks (also involving text pairs). 
 
-As in the original implementation in Tensorflow, this code runs the GAN-BERT experiment over the TREC dataset for the fine-grained Question Classification task. We provide in this package the code as well as the data for running an experiment by using 2% of the labeled material (109 examples) and 5343 unlabeled examples.
-The test set is composed of 500 annotated examples.
-
 
 ## The Model
 
